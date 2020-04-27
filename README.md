@@ -1,5 +1,5 @@
 # React application for auction-api
-This is an assignment for the course web development at the university of Ghent ( 2nd bachelor computer science )
+This is an assignment for the course web development taught by professor Ruben Verborgh at Ghent University
 
 We had to make a frontend application for the exemple solution of our previous project (https://github.com/thdossch/webdev1-express).
 
